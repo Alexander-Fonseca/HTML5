@@ -1,2 +1,2 @@
 # HTML5
- testando recursos git
+ testando recursos do Git e GitHub.
